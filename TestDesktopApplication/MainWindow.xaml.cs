@@ -25,6 +25,7 @@ namespace TestDesktopApplication
     {
         public MainWindow()
         {
+
             InitializeComponent();
         }
     }
